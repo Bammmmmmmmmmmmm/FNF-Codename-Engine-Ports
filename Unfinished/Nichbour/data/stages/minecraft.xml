@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.72" name="stage" folder="stages/minecraft/">
+    <girlfriend />
+    <sprite name="bg"               x="-400" y="1050"   sprite="minecraft"        scale="3"/>
+    <sprite/>
+    <dad x="-1100" y="800"/>
+    <boyfriend x="500" y="1300"/>
+</stage>
